@@ -1,0 +1,15 @@
+{
+    "name": "tests1000/yii2-articles",
+    "description": "Create and publish articles ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," articles"," blog"],
+    "license": "BSD-4-Clause",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tests1000\\articles\\": ""
+        }
+    }
+}
